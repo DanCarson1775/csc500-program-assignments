@@ -1,7 +1,7 @@
 """
-Part 2 - Alarm Clock Program.
+Part 2 - CSU Global Bookstore Program
 
-Calculates the time an alarm will go off based on a 24-hour clock.
+<DESCRIBE PROGRAM>
 
-User is prompted for current time and number of hours to wait. Future time is calculated and printed out to user.
+<DETAILS OF PROGRAM>
 """
