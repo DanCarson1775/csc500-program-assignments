@@ -1,11 +1,14 @@
 """
 Module 5 - Criticial Thinking Assignment
+Part 1 - Average Rainfall Calculator
 
-<DESCRIBE PROGRAM>
+Average rainfall over a period of years is calculated. 
+User is prompted for the number of years and nested loops iterate to collect data later used for the calculation.
 """
 
 
 def calc_avg_rainfall(num_years):
+    """Calculates average rainfall over time period of months and years."""
 
     # Local scope variables
     total_rainfall = 0
